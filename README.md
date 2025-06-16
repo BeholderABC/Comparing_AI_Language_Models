@@ -7,5 +7,7 @@
   ├── 模型2-通义Qwen-7B-Chat            //存放通义Qwen-7B-Chat模型的部署截图和输出结果截图
   ├── 模型3-百川Baichuan2-7B-Chat      //存放百川Baichuan2-7B-Chat模型的部署截图和输出结果截图
   ├── 特邀嘉宾-DeepSeek   //存放用于对比的DeepSeek输出结果截图
+  ├── 模型横向对比分析.docx       //对测试结果的分析
+  ├── 项目实施过程.md            //描述了项目实施过程
   └── run_model.py              //测试中所使用的脚本源程序
 ```
